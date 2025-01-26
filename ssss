@@ -1,0 +1,67 @@
+[33mcommit eb867f3c80e006a05b885c02fee089b1e5457f7c[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m, [m[1;31morigin/HEAD[m[33m)[m
+Merge: 4397041 cf3cb85
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 03:46:29 2025 +0100
+
+    solucionado conflicto con rama3
+
+[33mcommit 4397041a95f408b0666f4b1aad1bb58180f24a1e[m
+Merge: b40d5a3 2bbfd00
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 03:34:40 2025 +0100
+
+    conflicto resuelto
+
+[33mcommit 2bbfd008dc9ce676ca6c403b575b1e24babf46e3[m[33m ([m[1;31morigin/rama3[m[33m, [m[1;32mrama3[m[33m)[m
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 03:26:43 2025 +0100
+
+    prueba para conflicto con rama3
+
+[33mcommit cf3cb85bee42544123954d350231af054a218d62[m[33m ([m[1;31morigin/rama2[m[33m, [m[1;32mrama2[m[33m)[m
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 03:22:15 2025 +0100
+
+    prueba para conflicto
+
+[33mcommit b40d5a3280f121abb706500b64c77502b4ff0f0d[m[33m ([m[1;31morigin/rama1[m[33m, [m[1;32mrama1[m[33m)[m
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 03:13:09 2025 +0100
+
+    cambios hechos al archivo nuevamente
+
+[33mcommit 97189b5ad00d8fe7b9696d41e88cb0d73baa93f2[m
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 03:09:06 2025 +0100
+
+    cambios hechos al archivo
+
+[33mcommit 60e626efe9c5d6b530a755ea1d0482170cc4f303[m
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 02:27:58 2025 +0100
+
+    prueba 2
+
+[33mcommit bcdbf2ca83b3b3cf187cc8a2b8602e13321e5572[m
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 02:22:08 2025 +0100
+
+    archivo1.py
+
+[33mcommit d9f73d03d21284d4c95f382b1c38ef3d41754e82[m
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sun Jan 26 01:41:27 2025 +0100
+
+    archivo2 creado
+
+[33mcommit 61e97ae3ff4844a8a28949fb5ff2781acf2af708[m
+Author: Kevin Coll <kevincollmorales@gmail.com>
+Date:   Sat Jan 25 13:04:46 2025 +0100
+
+    Hello
+
+[33mcommit e61e5b9c6d3f48c15a4a449d07c49ddfcf636530[m
+Author: kevinak4747 <kevincollmorales@gmail.com>
+Date:   Sat Jan 25 12:01:14 2025 +0100
+
+    Initial commit
